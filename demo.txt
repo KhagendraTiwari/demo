@@ -1,1 +1,1 @@
-hello from git - local repository
+hello from github – remote repository
